@@ -57,11 +57,11 @@ public/
 Before deploying, confirm/update these:
 
 ### content.ts
-- [ ] Confirm DOCU client name (or keep "Confidential client")
-- [ ] Add correct delivery years for CKM and Sippop
-- [ ] Confirm Sippop is personal project or client work
-- [ ] Confirm DOCU stack (add actual framework/backend)
-- [ ] Confirm CKM Scorecard stack (Phase 1 + Phase 2)
+- [x] Confirm DOCU client name (or keep "Confidential client")
+- [x] Add correct delivery years for CKM and Sippop
+- [x] Confirm Sippop is personal project or client work
+- [x] Confirm DOCU stack (add actual framework/backend)
+- [x] Confirm CKM Scorecard stack (Phase 1 + Phase 2)
 
 ### app/work/[slug]/page.tsx
 - [ ] Fill any remaining [CONFIRM] items in case study prose
