@@ -46,7 +46,7 @@ export const caseStudies: CaseStudy[] = [
     year: "2026",
     stack: ["React", "TypeScript", "Supabase", "Lucid React", "Tailwind CSS", "Resend", "Zustand", "React Hook Form", "Zod", "React Router", "Shadcn UI"],
     liveUrl: "https://web-folder-six.vercel.app",
-    videoUrl: "https://www.loom.com/share/4b0b08e2db124c4b92e778cbe80998b2", // ← paste your Loom share URL here after recording
+    videoUrl: "", // ← paste your Loom share URL here after recording
     featured: true,
     order: 1,
     status: "client",
