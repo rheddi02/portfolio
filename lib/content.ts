@@ -46,7 +46,7 @@ export const caseStudies: CaseStudy[] = [
     year: "2026",
     stack: ["React", "TypeScript", "Supabase", "Lucid React", "Tailwind CSS", "Resend", "Zustand", "React Hook Form", "Zod", "React Router", "Shadcn UI"],
     liveUrl: "https://web-folder-six.vercel.app",
-    videoUrl: "", // ← paste your Loom share URL here after recording
+    videoUrl: "https://www.loom.com/share/2dc33dffb4774cfd9a4580928735a642", // ← paste your Loom share URL here after recording
     featured: true,
     order: 1,
     status: "client",
@@ -84,6 +84,7 @@ export const caseStudies: CaseStudy[] = [
     year: "2026",
     stack: ["React", "TypeScript", "PWA", "Supabase", "Tailwind CSS"],
     liveUrl: "https://sippop-pos.vercel.app",
+    videoUrl: "https://www.loom.com/share/94600b12fa184a72b5bf8f565bde20a7",
     featured: true,
     order: 3,
     status: "live",
